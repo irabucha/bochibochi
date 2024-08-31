@@ -1,0 +1,54 @@
+html {
+  font-size: 30 px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background-color: #9ED65A;
+}
+
+body {
+  width: 1000px;
+  margin: 10px auto;
+  background-color: #95EBED;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+#search {
+display: block;
+margin: 0 auto;
+}
+
+h1 {
+  margin: 0;
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+  color: #FF89E6;
+  text-shadow: 3px 3px 1px black;
+}
+
+h1:hover
+{
+  color: #D2D64F;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p,
+li {
+  text-align: center;
+  font-size: 30px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+
