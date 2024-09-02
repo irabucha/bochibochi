@@ -1,1 +1,1 @@
-# bochibochi.github.io
+# bochibochi
